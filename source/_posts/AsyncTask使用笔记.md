@@ -2,7 +2,7 @@
 layout: android
 title: AsyncTask使用笔记
 date: 2017-05-02 00:16:17
-tags: AsyncTask,多线程
+tags: [AsyncTask,多线程]
 ---
 
 **文/大大大大峰哥**

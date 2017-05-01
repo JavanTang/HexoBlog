@@ -2,7 +2,7 @@
 layout: 工具
 title: Gitkraken一个又炫又容易上手的Git图形化工具
 date: 2017-05-02 00:04:53
-tags: git,gitkraken
+tags: [git,gitkraken]
 ---
 
 **文/大大大大峰哥**
