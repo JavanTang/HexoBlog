@@ -55,7 +55,7 @@ pagination_dir: page
 # Extensions #拓展
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape #主题更换
+theme: next #主题更换
 # Deployment #部署参数
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
