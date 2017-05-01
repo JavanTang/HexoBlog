@@ -60,7 +60,7 @@ theme: next #主题更换
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/JavanTang/JavanTang.github.io.git
+  repo: git@github.com:JavanTang/JavanTang.github.io.git
   branch: master
 index_generator:
   per_page: 3 ##首頁默认10篇文章标题 如果值为0不分页
